@@ -1,0 +1,24 @@
+<Word>
+	<LexicalEntry>
+		<HeadWord> Information </HeadWord>
+		<Detail>
+			<Mean> Thông tin </Mean>
+			<WordType> N </WordType>
+		</Detail>
+		<Example>
+			<Phrase> Information Technology </Phrase>
+			<PhraseMean> Công nghệ thông tin </PhraseMean>
+		</Example>
+	</LexicalEntry>
+	<LexicalEntry>
+		<HeadWord> floor </HeadWord>
+		<Detail>
+			<Mean> Sàn nhà </Mean>
+			<WordType> N </WordType>
+		</Detail>
+		<Example>
+			<Phrase> Sit on floor </Phrase>
+			<PhraseMean> Ngồi trên sàn nhà </PhraseMean>
+		</Example>
+	</LexicalEntry>
+</Word>
