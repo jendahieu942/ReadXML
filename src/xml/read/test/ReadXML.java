@@ -45,7 +45,8 @@ public class ReadXML {
 							if (h.getNodeName().equals("HeadWord")) {
 								Element head = (Element) h;
 								System.out.println("Head Word: " + head.getTextContent());
-							} else if (h.getNodeName().equals("Morphology")) {
+							} else if (h.getNodeName().equals("Morphology")) { 
+								//Trong Morphology co nhieu node nen ta phai doc tung node mot cua no
 								NodeList mlist = h.getChildNodes();
 								for (int k = 0; k < mlist.getLength(); k++) {
 									Node wordtype = mlist.item(k);
